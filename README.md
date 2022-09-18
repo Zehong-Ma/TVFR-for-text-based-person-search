@@ -1,6 +1,6 @@
 # TVFR for text-based person search
 
-TensorFlow implementation of Text-guided Visual Feature Refinement for Text-Based Person Search accepted by ICMR 2021.
+TensorFlow implementation of [Text-guided Visual Feature Refinement for Text-Based Person Search](https://dl.acm.org/doi/pdf/10.1145/3460426.3463652) accepted by ICMR 2021.
 The code is implemented based on the TensorFlow implementation of [Deep Cross-Modal Projection Learning for Image-Text Matching](https://github.com/YingZhangDUT/Cross-Modal-Projection-Learning)
 
 ## Introduction
@@ -52,7 +52,13 @@ Zhang, et al. Deep Cross-Modal Projection Learning for Image-Text Matching, ECCV
 ## Citation
 If you find TVFR useful in your research, please kindly cite our paper:
 ```
-Text-guided Visual Feature Refinement for Text-Based Person Search
+@inproceedings{gao2021text,
+  title={Text-Guided Visual Feature Refinement for Text-Based Person Search},
+  author={Gao, Liying and Niu, Kai and Ma, Zehong and Jiao, Bingliang and Tan, Tonghao and Wang, Peng},
+  booktitle={Proceedings of the 2021 International Conference on Multimedia Retrieval},
+  pages={118--126},
+  year={2021}
+}
 ```
 
 ## Contact
